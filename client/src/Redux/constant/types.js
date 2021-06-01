@@ -1,0 +1,7 @@
+export const constaintsTyps = {
+    SET_LOADING: "SET_LOADING ",
+    CLOSE_LOADING: "CLOSE_LOADING",
+    LOGIN_SUCCESS: "LOGIN_SUCCESS",
+    LOGIN_FAIL: "LOGIN_FAIL",
+    SET_TOKEN: "SET_TOKEN",
+}
